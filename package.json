@@ -4,6 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "start": "node server.js",
     "dev": "start pac code run && vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
